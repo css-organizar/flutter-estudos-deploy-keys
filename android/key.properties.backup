@@ -1,0 +1,4 @@
+storePassword=sessa1984
+keyPassword=sessa1984
+keyAlias=key
+storeFile=key.jks

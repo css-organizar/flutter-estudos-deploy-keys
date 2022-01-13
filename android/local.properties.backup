@@ -1,0 +1,5 @@
+sdk.dir=/Users/claudneysessa/Library/Android/sdk
+flutter.sdk=/Users/claudneysessa/FlutterDev/flutter
+flutter.buildMode=release
+flutter.versionName=1.0.0
+flutter.versionCode=1
